@@ -26,4 +26,4 @@ type CounterStore = {
     })
    }
  }))
- export default useCounterStore
+ export default useCounterStore;
